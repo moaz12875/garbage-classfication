@@ -45,5 +45,15 @@ Lightweight, accurate, and suitable for deployment on mobile and edge devices.
 🚀 How to Use
 🔴 Live Web App
 Use our demo on Hugging Face Spaces:
+
 [👉 Try it Live](https://644ccd78a5191b3e5d.gradio.live/)
 
+
+📓 Notebook
+[view on kaggle](https://www.kaggle.com/code/moazmohamed545/notebookd474f18c4a/edit)
+
+
+prepeard by 
+moaz mohamed 
+
+[linkdin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
