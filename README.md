@@ -42,5 +42,8 @@ We experimented with different CNN architectures for garbage classification:
 👉 **Final Choice: MobileNetV2**  
 Lightweight, accurate, and suitable for deployment on mobile and edge devices.
 
-
+🚀 How to Use
+🔴 Live Web App
+Use our demo on Hugging Face Spaces:
+[👉 Try it Live](https://644ccd78a5191b3e5d.gradio.live/)
 
