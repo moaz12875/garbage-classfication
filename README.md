@@ -1,5 +1,8 @@
 # garbage-classfication
-This project classifies waste into 10 categories: cardboard, battery, metal, paper, plastic, shoes, trash, biological, clothes, and glass. Using image recognition, the model improves waste sorting and recycling efficiency, reducing environmental impact and supporting sustainable waste management.
+This project classifies waste into 10 categories: cardboard, battery, metal, paper, plastic, shoes, trash, biological, clothes, and glass. Using image recognition, the model improves waste sorting and recycling
+efficiency, reducing environmental impact and supporting sustainable waste management.
+
+
 📂 Dataset
 The dataset used for this project is publicly available on Kaggle:
 🔗 Garbage Classification Dataset
@@ -24,6 +27,8 @@ There was confusion between similar classes, such as transparent plastic vs. gla
 ✅ Solutions Applied
 Used data augmentation (flipping, rotation, zoom, etc.) to increase training data.
 Applied fine-tuning on pretrained models to improve class distinction.
+
+
 🧠 Model
 We experimented with different CNN architectures:
 
