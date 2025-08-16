@@ -4,6 +4,8 @@ efficiency, reducing environmental impact and supporting sustainable waste manag
 
 
 📂 Dataset
+
+
 The dataset used for this project is publicly available on Kaggle:
 🔗 Garbage Classification Dataset
 
@@ -30,6 +32,7 @@ Applied fine-tuning on pretrained models to improve class distinction.
 
 
 🧠 Model
+
 We experimented with different CNN architectures:
 
 Model	Pros / Cons
