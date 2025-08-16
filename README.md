@@ -29,17 +29,18 @@ There was confusion between similar classes, such as transparent plastic vs. gla
 ✅ Solutions Applied
 Used data augmentation (flipping, rotation, zoom, etc.) to increase training data.
 Applied fine-tuning on pretrained models to improve class distinction.
+## 🧠 Model Comparison
+
+We experimented with different CNN architectures for garbage classification:
+
+| Model        | Pros                                                                 | Cons                        | Notes                                |
+|--------------|----------------------------------------------------------------------|-----------------------------|--------------------------------------|
+| **ResNet**   | 🔹 Very powerful <br> 🔹 High accuracy                                | ❌ Heavy <br> ❌ Large size  | Suitable for high-compute environments |
+| **EfficientNet** | 🔹 Balanced performance <br> 🔹 Good accuracy-to-size ratio          | ❌ Slower than MobileNetV2  | Good trade-off for general use        |
+| **MobileNetV2** ✅ | 🔹 Lightweight <br> 🔹 Fast <br> 🔹 High accuracy <br> 🔹 Fewer parameters | –                           | ✅ Final choice <br> Best for mobile/edge deployment |
+
+👉 **Final Choice: MobileNetV2**  
+Lightweight, accurate, and suitable for deployment on mobile and edge devices.
 
 
-🧠 Model
 
-We experimented with different CNN architectures:
-
-Model	Pros / Cons
-ResNet	Powerful but heavy
-EfficientNet	Balanced performance and size
-MobileNetV2	✅ Lightweight, ✅ Fast, ✅ High accuracy
-✅ Final Choice: MobileNetV2
-Low number of parameters
-High accuracy
-Suitable for mobile/edge deployment
