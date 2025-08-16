@@ -50,7 +50,7 @@ Use our demo on Hugging Face Spaces:
 
 
 📓 Notebook
-[view on kaggle](https://www.kaggle.com/code/moazmohamed545/notebookd474f18c4a/edit)
+[view on kaggle](https://www.kaggle.com/code/moazmohamed545/garbage/edit)
 
 
 prepeard by 
