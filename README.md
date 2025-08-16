@@ -48,6 +48,8 @@ Use our demo on Hugging Face Spaces:
 
 [👉 Try it Live](https://644ccd78a5191b3e5d.gradio.live/)
 
+📓 Notebook
+[view ob colab](https://colab.research.google.com/drive/1ftM9uFRVQNqCq5Ej23G3nJQu_Oo6Ivon)
 
 
 
