@@ -46,7 +46,7 @@ Lightweight, accurate, and suitable for deployment on mobile and edge devices.
 🔴 Live Web App
 Use our demo on Hugging Face Spaces:
 
-[👉 Try it Live](https://644ccd78a5191b3e5d.gradio.live/)
+[👉 Try it Live](https://huggingface.co/spaces/moazmohamed1/garbage)
 
 📓 Notebook
 [view ob colab](https://colab.research.google.com/drive/1ftM9uFRVQNqCq5Ej23G3nJQu_Oo6Ivon)
